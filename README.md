@@ -13,7 +13,3 @@ Excluir todas as mensagens em um canal do Discord ou DM
 ## Preocupações com a segurança
 Usar scripts de terceiros significa que você confia que o desenvolvedor do script não inseriu funcionalidade maliciosa no código e o protegeu contra invasores que tentam fazer o mesmo. Você nunca deve executar código em que não confia.
 
-## ⛔️ NÃO COMPARTILHE SEU AUTH TOKEN! ⛔️ ##
-Compartilhar seu authToken na internet dará acesso total à sua conta! Existem bots coletando credenciais por toda a internet. Se você postar seu token por acidente, FAÇA LOGOUT do discord no mesmo navegador em que você recebeu o token imediatamente. Alterar sua senha garantirá que você seja desconectado de todos os dispositivos. Aconselho que você ative o 2FA depois.
-
-
