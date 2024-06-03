@@ -4,7 +4,7 @@ Excluir todas as mensagens em um canal do Discord ou DM
 > Qualquer ferramenta que automatize ações em contas de usuários, incluindo esta, pode resultar no encerramento da conta.
 > Use por sua conta e risco!
 
-![Screenshot]([https://user-images.githubusercontent.com/3372598/222977831-88eeb59a-186a-4947-8e33-0ac245c3af5c.gif](https://media.discordapp.net/attachments/1245556314923601960/1247194633130213446/image.png?ex=665f2404&is=665dd284&hm=4d5182c71e31581bb4ebae928a9dc9f6116bba43c46b9ee4d7fad9cf52f2cf76&=&format=webp&quality=lossless&width=647&height=426))
+![Screenshot](https://media.discordapp.net/attachments/1245556314923601960/1247194633130213446/image.png?ex=665f2404&is=665dd284&hm=4d5182c71e31581bb4ebae928a9dc9f6116bba43c46b9ee4d7fad9cf52f2cf76&=&format=webp&quality=lossless&width=647&height=426)
 
 - Exclua todas as mensagens em um servidor
 - Canal do Discord ou DM (fácil e rápido)
