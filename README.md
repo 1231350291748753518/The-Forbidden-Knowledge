@@ -8,7 +8,7 @@ Excluir todas as mensagens em um canal do Discord ou DM
 - Canal do Discord ou DM (fácil e rápido)
 - Exclusão em massa
 
-##⛔️ NÃO COMPARTILHE SEU AUTH TOKEN! ⛔️
+##⛔️ NÃO COMPARTILHE SEU AUTH TOKEN! ⛔️##
 Compartilhar seu authToken na internet dará acesso total à sua conta! Existem bots coletando credenciais por toda a internet. Se você postar seu token por acidente, FAÇA LOGOUT do discord no mesmo navegador em que você recebeu o token imediatamente. Alterar sua senha garantirá que você seja desconectado de todos os dispositivos. Aconselho que você ative o 2FA depois.
 
 Se não tiver certeza, não publique capturas de tela ou logs na internet.
